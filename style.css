@@ -31,9 +31,7 @@ div.Devs {
     margin: auto;
 }
 
-div.Devs > h1 {
-    font-size: 150%;
-}
+
 
 div.Setting {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
