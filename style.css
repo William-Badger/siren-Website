@@ -1,3 +1,64 @@
 body {
+    background-size: 900px auto;
     background: rgb(255, 255, 255);
+    border-style: solid;
+    border-color: rgb(255, 39, 39);
+    border-width: 0.75em;
+}
+
+body {
+    box-sizing: border-box;
+    width: 900px;
+    margin: auto;
+}
+
+div.Intro {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    text-align: center;
+    width: 800px;
+    margin: auto;
+}
+
+div.Intro > h1{
+    font-size: 300%;
+    margin-bottom: 0.5em;
+}
+
+div.Devs {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    text-align: center;
+    width: 800px;
+    margin: auto;
+}
+
+div.Devs > h1 {
+    font-size: 150%;
+}
+
+div.Setting {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    text-align: center;
+    width: 800px;
+    margin: auto;
+}
+
+div.Story {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    text-align: center;
+    width: 800px;
+    margin: auto;
+}
+
+div.Mechanics {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    text-align: center;
+    width: 800px;
+    margin: auto;
+}
+
+div.Weapons {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    text-align: center;
+    width: 800px;
+    margin: auto;
 }
